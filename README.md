@@ -10,7 +10,7 @@ The report is developed in **Power BI Desktop** and successfully **published on 
 
 ## 🌐 Live Power BI Dashboard (Public)
 🔗 **Public Report Link:**  
-👉 https://app.powerbi.com/view?r=XXXXXXXXXXXX  
+👉 https://app.powerbi.com/view?r=eyJrIjoiNThjNGRjZDEtYTA3My00M2JjLWFhMDMtMThhMGE0M2FmYWQ1IiwidCI6ImU1OWJiZTkxLTdkZjctNGRkNS05Y2IwLWJjZTgyYWI3MmU0YSJ9
 
 
 ---
